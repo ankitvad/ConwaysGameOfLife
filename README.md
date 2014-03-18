@@ -1,5 +1,5 @@
 <head>
-<title>Conways Gam Of Life</title>
+<title>Conways Game Of Life</title>
 </head>
 <body>
 <h1>Description</h1>
