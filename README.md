@@ -2,7 +2,7 @@
 <title>Conways Gam Of Life</title>
 </head>
 <body>
-<h1>Description></h1>
+<h1>Description</h1>
 <br>
 
 <p>What is the Game of Life?</p>
